@@ -2,3 +2,8 @@
     font-family: caslonAntique;
     src: url(CaslonAntique.ttf);
 }
+
+main {
+            border: 5px solid black;
+            border-radius: 2px;
+}
